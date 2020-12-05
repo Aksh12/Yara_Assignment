@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-05T14:24:43 IST" name="Suite" finished-at="2020-12-05T14:25:34 IST" duration-ms="51116">
+    <groups>
+    </groups>
+    <test started-at="2020-12-05T14:24:43 IST" name="Test" finished-at="2020-12-05T14:25:34 IST" duration-ms="51116">
+      <class name="testcases.VerifyAddCropDetailsAreSaved">
+        <test-method is-config="true" signature="init()[pri:0, instance:testcases.VerifyAddCropDetailsAreSaved@6ed3ccb2]" started-at="2020-12-05T14:24:43 IST" name="init" finished-at="2020-12-05T14:25:01 IST" duration-ms="18088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyCropDetailsAreSaved()[pri:0, instance:testcases.VerifyAddCropDetailsAreSaved@6ed3ccb2]" started-at="2020-12-05T14:25:01 IST" name="verifyCropDetailsAreSaved" finished-at="2020-12-05T14:25:32 IST" duration-ms="31297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCropDetailsAreSaved -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.VerifyAddCropDetailsAreSaved@6ed3ccb2]" started-at="2020-12-05T14:25:33 IST" name="tearDown" finished-at="2020-12-05T14:25:34 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyAddCropDetailsAreSaved -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
