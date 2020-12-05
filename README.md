@@ -1,10 +1,10 @@
 # Yara_Assignment
 
-Programming Language: Java
-Automation tool : Appium
-Framework : DDT with test NG
-Pattern : Page Object model with design factory
-Build Automtation : Maven
+- Programming Language: Java
+- Automation tool : Appium
+- Framework : DDT with test NG
+- Pattern : Page Object model with design factory
+- Build Automtation : Maven
 
 Notes:-
 - As per the POM protocols, maintained separate class for every screen and each class holds the methods and members of that screen.
