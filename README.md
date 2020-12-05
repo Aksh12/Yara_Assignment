@@ -1,5 +1,7 @@
 # Yara_Assignment
 
+- Application : LCC QA
+- Application Version : 0.0.0
 - Programming Language: Java
 - Automation tool : Appium
 - Framework : DDT with test NG
